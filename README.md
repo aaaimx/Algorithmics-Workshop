@@ -7,13 +7,13 @@ En este repositorio podrás encontrar el contenido necesario para mejorar tus ha
 El contenido es el siguiente:
 
 - Algoritmos de entrenamiento básico; 
-Programa generador de Números Primos
-Programa adivinanza del 1 al 10 (Sin números negativos)
+Programa generador de Números Primos, 
+Programa adivinanza del 1 al 10 (Sin números negativos), 
 Programa que sea un Contador de Palabras (No permita signos extraños, todo sea minúsculas y sin acentos)
 
 - Algoritmos fundamentales como programador
-Binary Search
-Quick Sort
+Binary Search, 
+Quick Sort, 
 Dijktra
 
 Como proyecto final se pretende realizar una figura del juego Tetrix la cual se pueda rotar en consola. Siénte la libertad de hacer un git clone a nivel local de este repositorio para ir aprendiendo a tu ritmo. Cualquier duda que tengas al respecto cuenta con los EN-CODERS actuales y veteranos.
